@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CMC Markets</string>
+
+    <string name="home_Sell">Sell</string>
+    <string name="home_Buy">Buy</string>
+    <string name="home_Spread">Spread</string>
+    <string name="home_Units">Units</string>
+    <string name="home_Amount">Amount (£)</string>
+    <string name="home_Confirm">Confirm</string>
+    <string name="home_DateTimeStamp">Date Time Stamp</string>
+    <string name="home_NoDataReceived">No Data Received</string>
 </resources>
